@@ -1,0 +1,10 @@
+## Interface: 30000
+## Title: Peek_Smee
+## Notes: Share equipment and other information via a whisper.
+## Author: Smee@Dath'remar
+## SavedVariables: PeekDB
+## SavedVariablesPerCharacter: PeekPerCharDB
+## X-Credits: Inspired by InfoMe.
+
+Peek_Smee.lua
+Peek_SmeeIgnore.lua
